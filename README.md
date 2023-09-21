@@ -24,7 +24,7 @@ The Timer is a sleek and stylish countdown tool that you can use to keep track o
 
 To use the Timer locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/timer.git`.
+1. Clone this repository: `https://yossefsabry.github.io/timer_js/`.
 2. Open the index.html file in your preferred web browser.
 3. Enjoy using the Timer on your local machine.
 
